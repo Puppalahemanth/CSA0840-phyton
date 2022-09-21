@@ -16,3 +16,6 @@ paranthesis
 remove common words
 sumsquare
 valid number
+keywords
+dade season problem
+words of a string
